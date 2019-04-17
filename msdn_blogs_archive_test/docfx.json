@@ -4,8 +4,7 @@
       {
         "files": [
           "**/*.md",
-          "**/*.yml",
-          "**/*.html"
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -22,8 +21,7 @@
     "resource": [
       {
         "files": [
-          "**/*.png",
-          "**/*.jpg"
+          "**"
         ],
         "exclude": [
           "**/obj/**",
